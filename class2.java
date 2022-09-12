@@ -6,7 +6,7 @@ class Cbbb
     double y;
 }
 
-public class class2 {
+public class class02 {
     public static void main(String[] args) {
 
         Cbbb obj1 = new Cbbb();
